@@ -1,4 +1,4 @@
-## Hi, I'm Dr. Prabhu Raj Singh 👋
+## Hi, I'm Prabhu Raj Singh 👋
 
 **Specialist Dentist · Health Informatician · Clinical Data Scientist** — based in Stockholm, Sweden.
 
