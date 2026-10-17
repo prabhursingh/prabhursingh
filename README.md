@@ -19,7 +19,7 @@ I combine 8+ years of clinical care with health informatics and machine learning
 | 🧠 [**Brain Tumor MRI Classification**](https://github.com/prabhursingh/brain-tumor-mri-classification) | Detects brain tumors on MRI — custom CNN vs. transfer-learned ResNet18 & MobileNetV2, **99% accuracy**, Grad-CAM explainability | PyTorch, torchvision, scikit-learn |
 | 📅 [**Appointment No-Show & Algorithmic Bias**](https://github.com/prabhursingh/No-Show) | Predicts missed appointments (110k records) with 11 ML models and audits them for demographic bias using 4 fairness metrics | scikit-learn, imbalanced-learn, Fairlearn, AIF360, SHAP |
 | 🩺 [**UroTrack — UTI Decision Support**](https://github.com/prabhursingh/UroTrack) | Clinical decision support concept for urinary tract infection diagnosis and management *(in development)* | Python, FHIR, clinical guidelines |
-| 📊 [**PROHI Clinical Dashboard**](https://github.com/prabhursingh/PROHI-dashboard-class-exercise) | Interactive Streamlit dashboard for exploring a medical dataset | Streamlit, Plotly, SHAP |
+
 
 ---
 
