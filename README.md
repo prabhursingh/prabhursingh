@@ -4,7 +4,7 @@
 
 I combine 8+ years of clinical care with health informatics and machine learning to build data-driven tools that help clinicians make better, fairer decisions.
 
-- 🧠 Building **deep-learning models for medical imaging** (MRI classification, explainable AI with Grad-CAM)
+- 🧠 Building **deep-learning models for medical and dental imaging** (MRI classification, dental charting on panoramic X-rays, explainable AI with Grad-CAM)
 - ⚖️ Interested in **fairness and bias in clinical ML**
 - 🏥 Working with **healthcare interoperability standards** — HL7 FHIR, SNOMED CT
 - 🌱 Currently exploring **clinical decision support systems**
@@ -15,6 +15,7 @@ I combine 8+ years of clinical care with health informatics and machine learning
 
 | Project | What it does | Stack |
 |---|---|---|
+| 🦷 [**Dental Charting on Panoramic X-rays**](https://github.com/prabhursingh/panoramic-dental-charting) | Numbers every tooth (FDI) and flags caries, deep caries, periapical lesions and impacted teeth on panoramic X-rays; checks Grad-CAM heat-maps for anatomical plausibility and compares the AI with a dentist in a blinded study *(in progress)* | PyTorch, Faster R-CNN, Grad-CAM |
 | 🎓 [**MSc Thesis — UTI Imaging Decision Framework**](https://github.com/prabhursingh/uti-imaging-decision-framework) | Interpretable rules for CT/ultrasound decisions in UTI, mined from **10,758 Karolinska EHR records**; flagged 1,300 potentially avoidable scans (~1,800 staff hours) | SQL, Python, Apriori (mlxtend) |
 | 🧠 [**Brain Tumor MRI Classification**](https://github.com/prabhursingh/brain-tumor-mri-classification) | Detects brain tumors on MRI — custom CNN vs. transfer-learned ResNet18 & MobileNetV2, **99% accuracy**, Grad-CAM explainability | PyTorch, torchvision, scikit-learn |
 | 📅 [**Appointment No-Show & Algorithmic Bias**](https://github.com/prabhursingh/No-Show) | Predicts missed appointments (110k records) with 11 ML models and audits them for demographic bias using 4 fairness metrics | scikit-learn, imbalanced-learn, Fairlearn, AIF360, SHAP |
